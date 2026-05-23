@@ -1,0 +1,6 @@
+{
+  "name": "DragonBloom Farm",
+  "description": "A premium farmhouse web application for JS Horticulture to order products, book farm visits, learn about smart farming, track live analytics, and use an AI farming assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
